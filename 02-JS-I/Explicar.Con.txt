@@ -1,0 +1,13 @@
+Variables: es como una cajita que uso para guardar cierta informacion.
+le tengo que poner nombre para buscarla luego e = (esto no es igual) para meterle la info adentro.
+
+String: son caracteres seguido que tengo que poner entre "" para que se conviertan en strings.
+
+Funciones: me sirven para hacer grupos de codigo, para no escribirlo 20 veces si necesito usarlo 20 veces.
+argumento: es lo que va a tomar para hacer lo que el codigo diga que haga.
+return: me devuele un dato que puedo usar fuera de esa funcion.
+
+declaraciones if:es como un peaje, controla que lo que yo mando tenga el ticket osea true para poder ejecutarse.
+en caso de no tener el ticket False sigue como si nada.
+
+valores booleanos: son 2 opciones verdadero o falso.
